@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Your Man",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-12T03:56:51.119121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand By Your Man",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/01_Stand_By_Your_Man_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand By Your Man (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/02_Stand_By_Your_Man_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand By Your Man (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/03_Stand_By_Your_Man_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stand By Your Man (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/04_Stand_By_Your_Man_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stand By Your Man (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_Stand_By_Your_Man_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stand by Your Man",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/06_Stand_by_Your_Man_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Understand Your Man",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_Understand_Your_Man_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Understand Your Man",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/08_Understand_Your_Man_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Man",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/09_Your_Man_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Take Your Man",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/10_I'll_Take_Your_Man_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Take Your Man (Remix)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/11_I'll_Take_Your_Man_(Remix)_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Your Man",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/12_I'm_Your_Man_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shadow of Your Man",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/13_Shadow_of_Your_Man_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Watch Your Man (feat. Marshmello)",
+      "artist": "Rico Nasty feat. Marshmello",
+      "has_synced": true,
+      "path": "select/14_Watch_Your_Man_(feat._Marshmello)_Rico_Nasty_feat._Marshmello.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Watch Your Man (feat. Marshmello)",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/15_Watch_Your_Man_(feat._Marshmello)_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Your Man",
+      "artist": "Wham!",
+      "has_synced": true,
+      "path": "select/16_I'm_Your_Man_Wham!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Remember Who's Your Man",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/17_Remember_Who's_Your_Man_INXS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Your Man",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Your_Man_Joji.txt"
+    }
+  ]
+}
